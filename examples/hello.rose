@@ -1,1 +1,11 @@
 print("Hello World!")
+puts("Somebody stole my newline!")
+
+/*
+This should compile to:
+
+fun main() {
+    println("Hello World!")
+    print("Somebody stole my newline!")
+}
+*/
