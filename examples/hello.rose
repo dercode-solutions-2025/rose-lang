@@ -1,11 +1,11 @@
-print("Hello World!")
-puts("Somebody stole my newline!")
+def main() start
+    print "Hello World!";
+end
 
 /*
 This should compile to:
 
 fun main() {
     println("Hello World!")
-    print("Somebody stole my newline!")
 }
 */
