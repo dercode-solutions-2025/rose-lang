@@ -3,6 +3,9 @@ src { \
 &emsp;Lexer { \
 &emsp;&emsp;lexer.hpp - lexer:: \
 &emsp;} \
+&emsp;Main { \
+&emsp;&emsp;rose.hpp - rose:: \
+&emsp;}\
 &emsp;Parser1 { \
 &emsp;&emsp;parser1.hpp - parserone:: \
 &emsp;&emsp;AST class \
